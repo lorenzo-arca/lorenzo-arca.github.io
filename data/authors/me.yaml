@@ -1,0 +1,101 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Lorenzo Arca
+  given: Lorenzo
+  family: Arca
+role: PhD Candidate in Economics
+
+bio: |
+  I am a 6th-year PhD candidate in Economics at the University of Zurich
+  and a PhD intern at the Swiss National Bank. My research combines
+  structural trade models, quantitative spatial analysis, and
+  reduced-form causal estimation to study how firms' offshoring,
+  sourcing, and location decisions interact with
+  imperfectly competitive labor markets — and the consequences for
+  workers, regions, and the environment.
+
+affiliations:
+  - name: Swiss National Bank
+    url: https://www.snb.ch/
+  - name: University of Zurich
+    url: https://www.econ.uzh.ch/
+
+links:
+  - icon: at-symbol
+    url: mailto:lorenzo.arca@econ.uzh.ch
+    label: E-mail
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/lorenzo-arcà-9a912a115/
+  - icon: brands/github
+    url: https://github.com/lorenzo-arca
+
+interests:
+  - International Trade
+  - Spatial Economics
+  - Labor Economics
+  - Environmental Economics
+
+education:
+  - degree: PhD in Economics
+    institution: University of Zurich
+    year: "2020 – present"
+  - degree: Visiting Research Student
+    institution: London School of Economics
+    year: "2025"
+  - degree: MSc Economics and Social Sciences
+    institution: Bocconi University
+    year: "2017 – 2019"
+  - degree: BSc International Economics and Finance
+    institution: Bocconi University
+    year: "2014 – 2017"
+
+experience:
+  - role: PhD intern
+    org: Swiss National Bank
+    start: 2025-11-01
+    summary: "Working with Pinar Yeşin and Laurence Wicht on trade invoicing and the external exposure of Swiss firms."
+    logo: snb.png
+
+  - role: Teaching Assistant
+    org: University of Zurich
+    # TODO: update start/end dates and the course list below.
+    start: 2021-09-01
+    summary: "TA for [course name] (Prof. [name]). Please update with the courses and years."
+    logo: uzh.png
+
+  - role: Visiting student
+    org: Bank of Italy
+    start: 2022-01-01
+    end: 2023-06-30
+    summary: "Visited the Banca d'Italia under Andrea Lamorgese, Andrea Petrella, and Andrea Linarello. Built a quantitative spatial model of the Italian economy with international trade, applied to regional, sectoral, and trade-policy shocks."
+    logo: bankitalia.png
+
+  - role: Research Assistant
+    org: Bocconi University
+    start: 2019-07-01
+    end: 2020-09-30
+    summary: "Worked with Tom Schmitz on TFP measurement (profits, adjustment costs, capacity utilization), with Gianmarco Ottaviano on firm heterogeneity and trade as part of the ERC project MIMAT, and with Francesco Decarolis on survey design and web-scraping for IO and applied-micro projects."
+    logo: bocconi.png
+
+  - role: Research Intern, Economic Consulting
+    org: Europe Economics
+    start: 2018-07-01
+    end: 2018-09-30
+    summary: "Three-month internship in economic consulting in London."
+    logo: europe-economics.png
+
+languages:
+  - name: Italian
+    level: 5
+    label: Native
+  - name: English
+    level: 5
+    label: Fluent
+  - name: German
+    level: 2
+    label: Basic
+  - name: Spanish
+    level: 2
+    label: Basic

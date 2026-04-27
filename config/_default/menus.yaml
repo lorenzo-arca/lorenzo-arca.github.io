@@ -1,0 +1,23 @@
+# Top navigation links. Section anchors (`/#xxx`) jump to that section on the homepage.
+
+main:
+  - name: Bio
+    url: /
+    weight: 10
+  - name: Research
+    url: /#papers
+    weight: 11
+  - name: Contact
+    url: /#contact
+    weight: 12
+  # Hidden until we have content for them — uncomment to re-enable.
+  # - name: Talks
+  #   url: /#talks
+  # - name: News
+  #   url: /#news
+  # - name: Experience
+  #   url: experience/
+  # - name: Projects
+  #   url: projects/
+  # - name: Courses
+  #   url: courses/
