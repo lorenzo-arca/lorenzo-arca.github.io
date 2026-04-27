@@ -2,9 +2,9 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Lorenzo Arca
+  display: Lorenzo Arcá
   given: Lorenzo
-  family: Arca
+  family: Arcá
 role: PhD Candidate in Economics
 
 bio: |

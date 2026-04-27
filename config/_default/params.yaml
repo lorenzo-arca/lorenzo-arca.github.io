@@ -12,11 +12,11 @@ hugoblox:
   # Site-level branding (for people/profiles, use the author system in content/authors/)
   # ────────────────────────────────────────────────────────────────────────────
   identity:
-    name: "Lorenzo Arca"
+    name: "Lorenzo Arcá"
     organization: ""
     type: person
     tagline: "PhD Candidate in Economics — Swiss National Bank & University of Zurich"
-    description: "Personal website of Lorenzo Arca, PhD candidate in economics. International trade, spatial economics, labor, environment."
+    description: "Personal website of Lorenzo Arcá, PhD candidate in economics. International trade, spatial economics, labor, environment."
     social:
       twitter: ""
 
