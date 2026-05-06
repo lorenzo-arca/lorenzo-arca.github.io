@@ -60,9 +60,8 @@ experience:
 
   - role: Teaching Assistant
     org: University of Zurich
-    # TODO: update start/end dates and the course list below.
     start: 2021-09-01
-    summary: "TA for [course name] (Prof. [name]). Please update with the courses and years."
+    summary: "TA for *Advanced Microeconomics*, *Empirical Methods for Economics*, and *Industrial Economics*."
     logo: uzh.png
 
   - role: Visiting student
