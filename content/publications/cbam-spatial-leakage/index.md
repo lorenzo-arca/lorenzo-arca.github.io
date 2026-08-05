@@ -5,12 +5,17 @@ authors:
 date: "2026-01-01"
 publishDate: "2026-01-01"
 # Section: "article" = Working Papers, "manuscript" = Work in Progress.
-publication_types: ["manuscript"]
+publication_types: ["article"]
 publication: ""
 publication_short: ""
 
 abstract: |
-  The EU's Carbon Border Adjustment Mechanism (CBAM) aims to prevent international carbon leakage by taxing carbon-intensive imports. I ask whether, by reshoring dirty production, CBAM also generates _internal_ pollution leakage toward regions that already suffer from poor air quality. Using a quantitative spatial model of Italy with 20 regions, 24 foreign countries, and 20 sectors, extended with an emissions layer and an ETS-like production tax, I show that at €50/tCO₂ CBAM raises Italian CO₂ by 1.14 Mt, NOₓ by 2.06 kt, and PM₂.₅ by 0.17 kt, with the extra pollution concentrated in the Po Valley: Piemonte, Lombardia, Veneto, and Emilia-Romagna absorb 56%, 51%, and 55% of the CO₂, NOₓ, and PM₂.₅ increases, and Lombardia alone accounts for roughly a quarter of each. The same pattern holds when CBAM is layered on top of an ETS. Trade policies designed for global externalities can thus have local-pollution consequences that are invisible at the country level and only surface at the sub-national scale.
+  Carbon dioxide is a global externality — a tonne warms the planet wherever it is emitted — while the local pollutants released with it are not: their harm depends on where they land. A policy that relocates production across space therefore has local air-quality consequences beyond its global target, and a carbon border adjustment is built to relocate production: it curbs international carbon leakage by reshoring carbon-intensive activity into the regulating bloc, returning — on top of a domestic carbon price — part of the local pollution the price had removed. If that pollution lands on the regions whose air is already worst, the adjustment generates an _internal pollution leakage_ that mirrors, at the sub-national scale, the international leakage it is meant to prevent. I quantify this in a spatial model of Italy with a multi-pollutant emissions layer (CO₂, NOₓ, PM₂.₅) and region-specific pollution damages, taking the EU's ETS and a CBAM-style border adjustment as the leading instance. The two act in opposite directions on the same geography: the ETS cuts Italian CO₂ by about 6% and its co-pollutants with it, with more than half of the clean-up accruing to the four Po Valley regions — among Europe's most polluted — while the border adjustment reshores roughly a fifth to a quarter of that clean-up back, again over half of it to the Po Valley. Every region still gains in welfare, yet in Lombardia the returning pollution claws back about half of the gain. The pattern is driven by regional heterogeneity in industrial structure and baseline air quality.
+
+# Not shown on the site. Kept for reference.
+# Keywords: Carbon border adjustment, pollution leakage, quantitative spatial
+#   models, emissions trading, Italian regions, input-output linkages.
+# JEL: F18, Q56, R12, R13, H23.
 
 summary: A quantitative spatial model of Italy showing that CBAM redistributes carbon-intensive activity toward already-polluted regions of the Po Valley.
 
